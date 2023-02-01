@@ -1,0 +1,24 @@
+{
+  "users": [],
+  "coaches": [
+    {
+      "name": "Coach-1",
+      "password": "123456",
+      "gender": "M",
+      "dateOfBirth": "1990-01-04",
+      "mobileNumber": 0,
+      "speciality": "Sports.       ",
+      "id": 1
+    },
+    {
+      "name": "Coach-1",
+      "password": "123456",
+      "gender": "M",
+      "dateOfBirth": "1990-01-04",
+      "mobileNumber": 0,
+      "speciality": "Sports.       ",
+      "id": 2
+    }
+  ],
+  "bookings": []
+}

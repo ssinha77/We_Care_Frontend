@@ -1,0 +1,11 @@
+img {
+    max-width: 150px;
+}
+
+h1 {
+    display: inline;
+}
+
+.coachRegButton {
+    width: 50%;
+}
